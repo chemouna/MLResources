@@ -5,13 +5,14 @@ Resources for learning ML language
 
 ## Introduction
 * [Standard ML](https://en.wikipedia.org/wiki/Standard_ML)
+* [SML/NJ Literature](http://www.smlnj.org/doc/literature.html)
 
 ## Types 
 * [Polymorphism and Parameterized Types](http://www.cs.cornell.edu/courses/cs312/2008sp/lectures/lec04.html)
 
 ## Module System 
 * [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
-
+* [What is the relation between functors in SML and Category theory?](http://cs.stackexchange.com/questions/9769/what-is-the-relation-between-functors-in-sml-and-category-theory/9789#9789)
 
 ## Blogs 
 * [Code & Co](http://jozefg.bitbucket.org/)
