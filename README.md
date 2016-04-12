@@ -14,5 +14,9 @@ Resources for learning ML language
 * [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
 * [What is the relation between functors in SML and Category theory?](http://cs.stackexchange.com/questions/9769/what-is-the-relation-between-functors-in-sml-and-category-theory/9789#9789)
 
+## Comparison with other languages 
+* [What are the key differences between Haskell and Standard ML?](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
+
+
 ## Blogs 
 * [Code & Co](http://jozefg.bitbucket.org/)
