@@ -17,6 +17,8 @@ Resources for learning ML language
 ## Comparison with other languages 
 * [What are the key differences between Haskell and Standard ML?](https://www.quora.com/What-are-the-key-differences-between-Haskell-and-Standard-ML)
 
+## Functors 
+* [CS312 - Functors](http://www.cs.cornell.edu/courses/cs312/2006fa/recitations/rec08.html)
 
 ## Blogs 
 * [Code & Co](http://jozefg.bitbucket.org/)
