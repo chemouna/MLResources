@@ -19,6 +19,7 @@ Resources for learning ML language
 
 ## Functors 
 * [CS312 - Functors](http://www.cs.cornell.edu/courses/cs312/2006fa/recitations/rec08.html)
+* [How are functors in Haskell and OCaml similar?](http://stackoverflow.com/questions/16353066/how-are-functors-in-haskell-and-ocaml-similar)
 
 ## Blogs 
 * [Code & Co](http://jozefg.bitbucket.org/)
